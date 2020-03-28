@@ -1,6 +1,8 @@
-# hive-sql
+# Hadoop SQL in VSCode
 
-This extension provides Hive SQL support for VSCode. It also provides some basic code snippets for operations such as creating a table, altering a table, or renaming columns.
+This extension provides Hive/Presto/Spark/(Impala) SQL language syntax highlighting support for Visual Studio Code
+
+It also provides some basic code snippets for operations such as creating a table, altering a table, or renaming columns.
 
 The language specification is from the [hive-sublime-text](https://github.com/glinmac/hive-sublime-text) project, with slight modifications by me.
 
